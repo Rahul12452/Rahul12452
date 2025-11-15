@@ -12,30 +12,14 @@
 
 ## 🚀 About Me
 
-I am a **Finance Professional transitioning into Data Analytics**, combining my strong financial reporting and data accuracy experience with analytical tools to solve business problems.
-
-- 🧠 Skilled in **data cleaning, EDA, KPI design & business storytelling**  
-- 🗄️ Knowledge in **SQL, Power Query, DAX, Power BI, Excel, MySQL, Python (Pandas/NumPy)**  
-- 💼 Solid understanding of **financial data, reconciliations, and month-end processes**  
-- 🎯 Seeking roles in **Data Analyst / BI Analyst / Business Analyst** domains  
-- 📈 Strong interest in using data to improve decisions in **finance, operations & business strategy**
-
----
-
-## 🏢 Professional Experience  
-### **Finance Specialist – (Intercompany)**  
-**(DHL Global Forwarding)**  
-
-**Key Responsibilities & Achievements:**
-
-- Managed **intercompany financial closing and reporting**, ensuring timely and compliant month-end processes.    
-- Ensured accurate **AR/AP period-end closing**, supporting seamless financial workflows.  
-- Developed and delivered **performance and financial reports**, enabling data-driven decision-making for leadership.  
-- Maintained strong data integrity with accuracy in invoice posting and daily financial interface processing.  
-- Resolved stakeholder queries through GS Connect, maintaining excellent internal and client satisfaction.  
-- Handled **IHB statement booking, payments allocation & reconciliation**, ensuring intercompany accuracy and compliance.
-
-✨ *This experience builds my foundation as a Data Analyst by enhancing my ability to interpret financial data, identify patterns, analyze discrepancies, and translate numbers into insights.*
+📊 **Data Analyst Enthusiast transitioning from Finance** with strong analytical, reporting, and problem-solving skills.  
+💡 Passionate about transforming raw business & financial data into **actionable insights**, meaningful KPIs, and **interactive dashboards**.  
+⚡ Skilled in **SQL**, **Power BI (DAX, Power Query)**, **Excel**, and **Python (Pandas, NumPy)**.  
+📈 Experienced in **data cleaning, trend analysis, BI dashboard design, automation**, and **business storytelling**.  
+💼 Background in **Intercompany Finance**, reconciliations, month-end closing, and variance analysis — bridging finance knowledge with data analytics.  
+🔍 Strong understanding of **business operations, performance metrics**, and **data-driven decision-making**.  
+🎯 Open to roles in **Data Analyst / Business Analyst / BI Analyst / Reporting Analyst**.  
+🌱 Continuously learning **advanced analytics, Power BI best practices, and visualization techniques** to deliver high-impact insights.
 
 ---
 
