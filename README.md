@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Rahul  
 
-### 🎓 Education
-- **MBA – Master of Business Administration**  
-- **B.Com – Bachelor of Commerce**
+### 🎓 MBA Graduate
   
 📊 **Data Analyst Enthusiast | Finance Specialist (Intercompany)**  
 💻 **SQL • Power BI • Excel • Python**  
