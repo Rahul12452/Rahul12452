@@ -14,7 +14,7 @@
 💡 Passionate about transforming raw business & financial data into **actionable insights**, meaningful KPIs, and **interactive dashboards**.  
 ⚡ Skilled in **SQL**, **Power BI (DAX, Power Query)**, **Excel**, and **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)**.  
 📈 Experienced in **data cleaning, trend analysis, BI dashboard design, automation**, and **business storytelling**.  
-🤖 Machine Learning (Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering)
+🤖 Machine Learning (Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering)**.
 💼 Background in **Intercompany Finance**, reconciliations, month-end closing, and variance analysis — bridging finance knowledge with data analytics.  
 🔍 Strong understanding of **business operations, performance metrics**, and **data-driven decision-making**.  
 🎯 Open to roles in **Data Scientist / Data Analyst / Business Analyst / BI Analyst / Reporting Analyst**.  
