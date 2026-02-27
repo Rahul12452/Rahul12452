@@ -12,11 +12,12 @@
 
 📊 **Data Analyst Enthusiast transitioning from Finance** with strong analytical, reporting, and problem-solving skills.  
 💡 Passionate about transforming raw business & financial data into **actionable insights**, meaningful KPIs, and **interactive dashboards**.  
-⚡ Skilled in **SQL**, **Power BI (DAX, Power Query)**, **Excel**, and **Python (Pandas, NumPy)**.  
+⚡ Skilled in **SQL**, **Power BI (DAX, Power Query)**, **Excel**, and **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)**.  
 📈 Experienced in **data cleaning, trend analysis, BI dashboard design, automation**, and **business storytelling**.  
+🤖 Machine Learning (Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering)
 💼 Background in **Intercompany Finance**, reconciliations, month-end closing, and variance analysis — bridging finance knowledge with data analytics.  
 🔍 Strong understanding of **business operations, performance metrics**, and **data-driven decision-making**.  
-🎯 Open to roles in **Data Analyst / Business Analyst / BI Analyst / Reporting Analyst**.  
+🎯 Open to roles in **Data Scientist / Data Analyst / Business Analyst / BI Analyst / Reporting Analyst**.  
 🌱 Continuously learning **advanced analytics, Power BI best practices, and visualization techniques** to deliver high-impact insights.
 
 ---
@@ -34,6 +35,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
